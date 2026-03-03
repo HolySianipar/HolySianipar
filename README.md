@@ -68,10 +68,12 @@ I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
 </div>
 
 <hr>
-<h3 align="left">🎮 Game PacMan</h3>
+<h3 align="left">🎮 Game Snake</h3>
+
+###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HolySianipar/HolySianipar/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+<img src="https://raw.githubusercontent.com/HolySianipar/HolySianipar/output/snake.svg" alt="Snake animation" />
 
 ###
