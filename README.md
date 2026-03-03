@@ -15,7 +15,7 @@ I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
 
 ###
 
-###
+<hr>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
@@ -40,6 +40,7 @@ I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
 </div>
 
+<hr>
 <h3 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="22"/> 
   Socials
@@ -58,7 +59,7 @@ I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
   </a>
 </div>
 
-###
+<hr>
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
@@ -66,7 +67,7 @@ I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
 
 </div>
 
-###
+<hr>
 <h3 align="left">🎮 Game PacMan</h3>
 
 <br clear="both">
